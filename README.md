@@ -1,4 +1,4 @@
-# base on Middleman on Steroids
+# based on 'Middleman on Steroids' tanks to hildersantos
 
 This project is meant to be a start point to use Middleman with Webpack and PostCSS.
 
