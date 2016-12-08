@@ -1,0 +1,18 @@
+/*
+general configurations
+----------
+*/
+
+/* fonts */
+$base-font-size: 16px;
+$base-font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/* media sizes */
+$breakpoints: (
+  xs: 32rem,
+  sm: 48rem,
+  md: 72rem,
+  lg: 96rem,
+  xl: 102rem,
+  xx: 120rem
+);

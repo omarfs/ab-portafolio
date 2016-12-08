@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+// core
+@import "core/reset";
+@import "core/config";
+@import "core/functions";
+@import "core/mixins";
+@import "core/placeholders";
+@import "core/colors";
+@import "core/animations";
+@import "core/base";
+
+// generic components
+@import "components/buttons";
+
+// UI components (header, footer, sidebar, widgets, etc)
+@import "components/website";
